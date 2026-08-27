@@ -1,25 +1,39 @@
-<h1 align="center">Hi 👋, I'm Shivraj Daunde</h1>
-<h3 align="center">I'm Engineering Student at NMIET Pune.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivrajdaunde-code&label=Profile%20views&color=0e75b6&style=flat" alt="shivrajdaunde-code" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:ff007f,100:39ff14&height=220&section=header&text=Shivraj%20Vijay%20Daunde&fontSize=42&fontColor=ffffff&animation=twinkling" alt="Shivraj Vijay Daunde" width="100%" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivrajdaunde-code" alt="shivrajdaunde-code" /></a> </p>
+<br>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=%3E+Loading+Player+Profile...;%3E+Class%3A+Engineer+%26+Developer;%3E+Main+Quest%3A+Building+Impactful+Tech;%3E+Grinding+XP+Since+Day+1+%E2%9A%A1" alt="Typing SVG" />
 
-- 🌱 I’m currently learning **C++ , java , C , Python**
+<br><br>
 
-- 📫 How to reach me **shivrajdaunde@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=shivrajdaunde&label=PROFILE+VIEWS&color=ff007f&style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-39ff14?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/CLASS-DEVELOPER-00f0ff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-ffd700?style=for-the-badge&labelColor=0d1117" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,50:ff007f,100:39ff14&height=4&width=100%25" width="100%" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivrajdaunde-code&show_icons=true&locale=en&layout=compact" alt="shivrajdaunde-code" /></p>
+## 🗺️ Quest Log
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivrajdaunde-code&show_icons=true&locale=en" alt="shivrajdaunde-code" /></p>
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivrajdaunde-code&" alt="shivrajdaunde-code" /></p>
+```diff
++ ACTIVE QUEST
+  Mastering Modern Software
+  Development & System Design
+
+! SIDE QUEST
+  Sharpening Problem Solving,
+  DSA & Exploring Hardware/IoT
+
+# ROLE
+  Engineering Student / Developer
+
+$ CONTACT
+  shivrajdaunde@example.com
