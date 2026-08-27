@@ -6,7 +6,8 @@
 <br>
 
 <!-- Dynamic Typing Subtitle -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=%3E+Engineering+Student+%26+Learning+AI;%3E+Full+Stack+%2B+Embedded+Systems+%2B+IoT;%3E+Solving+Real-World+Problems+Through+Code;%3E+Leveling+Up+XP+%26+Commits+Every+Single+Day+%E2%9A%A1" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=%3E+Loading+Player+Profile...;%3E+Btech%3A+AI+and+data+science+Student;%3E+Main+Quest%3A+App+%26+Web+Development;%3E+Grinding+XP+Since+Day+1+%E2%9A%A1" alt="Typing SVG" />
 
 <br><br>
 
