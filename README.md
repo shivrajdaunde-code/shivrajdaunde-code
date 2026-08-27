@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- Badges & Status Matrix -->
-<img src="https://komarev.com/ghpvc/?username=shivrajdaunde&label=PROFILE+VIEWS&color=ff007f&style=for-the-badge&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=shivrajdaunde-code&label=PROFILE+VIEWS&color=ff007f&style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/STATUS-ONLINE-39ff14?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/CLASS-ENGINEER-00f0ff?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/SPEC-FULL%20STACK%20%2B%20IoT-ffd700?style=for-the-badge&labelColor=0d1117" />
@@ -71,16 +71,16 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/rohit-kedari" target="_blank">
+<a href="https://linkedin.com/in/shivrajdaunde-code" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
 </a>
-<a href="https://leetcode.com/rohitkedari-git" target="_blank">
+<a href="https://leetcode.com/shivrajdaunde-code" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117" />
 </a>
-<a href="https://discord.gg/rohit05291" target="_blank">
+<a href="https://discord.gg/shivrajdaunde-code" target="_blank">
   <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" />
 </a>
-<a href="mailto:rohitkedari017@gmail.com" target="_blank">
+<a href="mailto:shivrajdaunde@example.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-Send-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
 </a>
 
@@ -92,7 +92,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitkedari-git&bg_color=0d1117&color=00f0ff&line=ff007f&point=39ff14&area=true&area_color=00f0ff&hide_border=true&title_color=ffffff&text_color=8b949e" alt="Contribution Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivrajdaunde-code&bg_color=0d1117&color=00f0ff&line=ff007f&point=39ff14&area=true&area_color=00f0ff&hide_border=true&title_color=ffffff&text_color=8b949e" alt="Contribution Activity Graph" width="100%" />
 
 </div>
 
@@ -102,7 +102,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rohitkedari-git&theme=algolia&column=6&margin-w=15&no-frame=true&no-bg=true" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=shivrajdaunde-code&theme=algolia&column=6&margin-w=15&no-frame=true&no-bg=true" alt="Trophies" />
 
 </div>
 
@@ -112,12 +112,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rohitkedari-git&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff007f&icon_color=00f0ff&text_color=c9d1d9&count_private=true" alt="GitHub Stats" height="175" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkedari-git&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9" alt="Top Languages" height="175" />
+<img src="https://github-readme-stats.vercel.app/api?username=shivrajdaunde-code&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff007f&icon_color=00f0ff&text_color=c9d1d9&count_private=true" alt="GitHub Stats" height="175" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivrajdaunde-code&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9" alt="Top Languages" height="175" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkedari-git&hide_border=true&background=0d1117&ring=ff007f&fire=ffd700&currStreakLabel=00f0ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="Commit Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivrajdaunde-code&hide_border=true&background=0d1117&ring=ff007f&fire=ffd700&currStreakLabel=00f0ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="Commit Streak" />
 
 </div>
 
