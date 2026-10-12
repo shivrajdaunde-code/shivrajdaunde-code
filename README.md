@@ -1,4 +1,4 @@
-
+![Hey! I'm Shivraj](.github/workflow/banner.svg)
 <div align="center">
   <img src="./assets/banner.svg" alt="Shivraj Vijay Daunde" width="100%" />
 </div>
