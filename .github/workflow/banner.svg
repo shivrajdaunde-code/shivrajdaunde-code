@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="260" viewBox="0 0 830 260">
+  <rect width="830" height="260" rx="12" fill="#0b0b0d"/>
+
+  <!-- Mesh lines -->
+  <g stroke="#ffffff" stroke-opacity="0.12" stroke-width="1" fill="none">
+    <path d="M30 40L150 20L260 70L30 40ZM30 40L80 130L260 70M80 130L200 160L260 70M150 20L330 30L260 70M330 30L420 110L260 70M200 160L420 110M330 30L520 20L420 110M520 20L610 90L420 110M610 90L700 30L520 20M700 30L790 100L610 90M420 110L480 200L200 160M480 200L620 220L610 90M620 220L740 190L790 100M610 90L740 190M200 160L330 225L480 200M80 130L110 230L330 225M110 230L200 160"/>
+  </g>
+
+  <!-- Glowing nodes -->
+  <g fill="#ffffff">
+    <circle cx="30" cy="40" r="2.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="150" cy="20" r="2.5"><animate attributeName="opacity" values="1;0.2;1" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="260" cy="70" r="2.5"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="330" cy="30" r="2.5"><animate attributeName="opacity" values="1;0.2;1" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="420" cy="110" r="2.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="520" cy="20" r="2.5"><animate attributeName="opacity" values="1;0.3;1" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="610" cy="90" r="2.5"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="30" r="2.5"><animate attributeName="opacity" values="1;0.2;1" dur="3.3s" repeatCount="indefinite"/></circle>
+    <circle cx="790" cy="100" r="2.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.7s" repeatCount="indefinite"/></circle>
+    <circle cx="480" cy="200" r="2.5"><animate attributeName="opacity" values="1;0.2;1" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="740" cy="190" r="2.5"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- Terminal icon -->
+  <g transform="translate(70,60) rotate(-10 60 65)">
+    <rect x="6" y="8" width="120" height="130" rx="28" fill="#000" opacity="0.5"/>
+    <rect width="120" height="130" rx="28" fill="#2c3035" stroke="#4b5158" stroke-width="2"/>
+    <circle cx="28" cy="22" r="3" fill="#ff5f56"/>
+    <circle cx="40" cy="20" r="3" fill="#ffbd2e"/>
+    <circle cx="52" cy="18" r="3" fill="#27c93f"/>
+    <path d="M34 62 L58 82 L34 102" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="68" y1="100" x2="94" y2="86" stroke="#fff" stroke-width="8" stroke-linecap="round">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  <!-- Text -->
+  <text x="235" y="135" font-family="'Palatino Linotype','Book Antiqua',Georgia,serif" font-style="italic" font-size="50" fill="#ffffff" opacity="0">
+    Hey ! I'm Shivraj
+    <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
+  </text>
+  <text x="520" y="180" font-family="'Segoe UI',Arial,sans-serif" font-size="28" fill="#e6edf3" opacity="0">
+    FullStack Developer
+    <animate attributeName="opacity" from="0" to="1" dur="1.2s" begin="0.8s" fill="freeze"/>
+  </text>
+</svg>
