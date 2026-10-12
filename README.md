@@ -49,3 +49,4 @@ systems. Add 2–3 lines here about your best project, with links. <!-- EDIT -->
 <a href="https://linkedin.com/in/shivrajdaunde-code"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://leetcode.com/shivrajdaunde-code"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="mailto:shivrajdaunde@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+![banner](https://raw.githubusercontent.com/shivrajdaunde-code/shivrajdaunde-code/output/banner.svg)
