@@ -52,6 +52,4 @@ systems. Add 2–3 lines here about your best project, with links. <!-- EDIT -->
 <a href="mailto:shivrajdaunde@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 ![banner](https://raw.githubusercontent.com/shivrajdaunde-code/shivrajdaunde-code/output/banner.svg)
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/shivrajduande-code/shivrajduande-code/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/shivrajdaunde-code/shivrajdaunde-code/output/github-snake.gif" alt="Snake gif" />
