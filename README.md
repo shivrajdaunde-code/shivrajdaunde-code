@@ -1,3 +1,4 @@
+![Hey! I'm Shivraj](.github/workflow/banner.svg)
 <div align="center">
   <img src="./assets/banner.svg" alt="Shivraj Vijay Daunde" width="100%" />
 </div>
@@ -50,3 +51,4 @@ systems. Add 2–3 lines here about your best project, with links. <!-- EDIT -->
 <a href="https://leetcode.com/shivrajdaunde-code"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="mailto:shivrajdaunde@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 ![banner](https://raw.githubusercontent.com/shivrajdaunde-code/shivrajdaunde-code/output/banner.svg)
+![snake](https://raw.githubusercontent.com/shivrajdaunde-code/shivrajdaunde-code/output/snake-red.svg)
